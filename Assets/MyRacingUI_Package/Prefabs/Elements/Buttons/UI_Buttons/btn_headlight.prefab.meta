@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75f6f6ccb829c7043816b69840009c7e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Buttons/UI_Buttons/btn_headlight.prefab
+  uploadId: 878144

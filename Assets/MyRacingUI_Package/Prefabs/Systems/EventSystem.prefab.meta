@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51c8929b36113104895516799093366b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Systems/EventSystem.prefab
+  uploadId: 878144

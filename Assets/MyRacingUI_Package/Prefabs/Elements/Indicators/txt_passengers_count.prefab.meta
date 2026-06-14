@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab0d1588fb50f2d49a9f14b9368cac9c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Indicators/txt_passengers_count.prefab
+  uploadId: 878144

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc59bc8259051994c878ddc2be4f2387
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Buttons/Controls/btn_pedal_turbo.prefab
+  uploadId: 878144

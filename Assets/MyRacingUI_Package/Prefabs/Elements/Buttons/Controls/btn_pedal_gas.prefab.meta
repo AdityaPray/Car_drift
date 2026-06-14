@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: afebec1dfa93b2b4fbd588a34836dfcb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Buttons/Controls/btn_pedal_gas.prefab
+  uploadId: 878144

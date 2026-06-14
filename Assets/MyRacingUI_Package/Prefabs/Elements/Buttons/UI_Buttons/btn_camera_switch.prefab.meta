@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 057c1d66af1e57e4d94bfcb9df427792
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Buttons/UI_Buttons/btn_camera_switch.prefab
+  uploadId: 878144

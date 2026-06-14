@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38f78e2ab27b2f649ac7a789cdcb20e3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/README.txt
+  uploadId: 878144

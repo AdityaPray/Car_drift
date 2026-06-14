@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6778ada1fecb2c2408bdbfc0b8fb0abd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Indicators/pnl_gas_indicator.prefab
+  uploadId: 878144

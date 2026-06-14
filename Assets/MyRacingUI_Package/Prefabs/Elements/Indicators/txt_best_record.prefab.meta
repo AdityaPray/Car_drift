@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63fe336ddbc228d43832cc89bba60a40
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Indicators/txt_best_record.prefab
+  uploadId: 878144

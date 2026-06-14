@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4719fd431a5d41846ae8778f3cc95256
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Buttons/Controls/btn_pedal_brake.prefab
+  uploadId: 878144

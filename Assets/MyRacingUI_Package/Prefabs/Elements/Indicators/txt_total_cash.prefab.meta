@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 647707fb1f832484abf65aa41f9c37c4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Indicators/txt_total_cash.prefab
+  uploadId: 878144

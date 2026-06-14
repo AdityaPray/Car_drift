@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe5e2d13351c40d4db7f5d5a3eec6e7b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Canvases/Sub_Static_Canvas.prefab
+  uploadId: 878144

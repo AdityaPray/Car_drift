@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 191370f9572ccf640a17399b17706a30
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Elements/Buttons/Controls/btn_arrow_left.prefab
+  uploadId: 878144

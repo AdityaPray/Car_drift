@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c031bf1a2b6fb73469f1037d3559f2de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 359664
+  packageName: Simple Car Racing UI Logic (2D & 3D)
+  packageVersion: 1.0
+  assetPath: Assets/MyRacingUI_Package/Prefabs/Canvases/Dynamic_HUD_Canvas.prefab
+  uploadId: 878144
