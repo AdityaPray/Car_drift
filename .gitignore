@@ -58,6 +58,9 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+*.backup
+Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.png
+
 # Builds
 *.apk
 *.aab

@@ -1,7 +1,15 @@
 fileFormatVersion: 2
-guid: 99c9720ab356a0642a771bea13969a05
+guid: 21395a1af6f566b459cf2f256020dc81
+timeCreated: 1507331512
+licenseType: Store
 DefaultImporter:
-  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104753
+  packageName: Free Island Collection
+  packageVersion: 1.0
+  assetPath: Assets/Free Island Collection/Scenes/Scene 1.unity
+  uploadId: 215789

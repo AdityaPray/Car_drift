@@ -1,11 +1,11 @@
 using UnityEngine;
-using UnityEngine.SceneManagement; // Wajib ditambahkan untuk memanggil Scene
+using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
     public GameObject Option_panel; 
     public AudioSource musicSource;
-    // Fungsi ini akan dipanggil saat tombol Start ditekan
+
     void Start()
     {
         if (musicSource != null)
@@ -14,7 +14,30 @@ public class MainMenu : MonoBehaviour
         }
     }
 
-    public void PlayGame()
+    // Fungsi ini untuk tombol "VS NPC" di dalam Panel Mode
+    public void PlayVersusMode()
+    {
+        // Menyimpan pilihan mode (0 = Versus NPC)
+        PlayerPrefs.SetInt("GameMode", 0);
+        PlayerPrefs.Save();
+        
+        // Panggil fungsi pindah scene
+        MuatSceneBalapan();
+    }
+
+    // Fungsi ini untuk tombol "Time Attack" di dalam Panel Mode
+    public void PlayTimeAttackMode()
+    {
+        // Menyimpan pilihan mode (1 = Time Attack)
+        PlayerPrefs.SetInt("GameMode", 1);
+        PlayerPrefs.Save();
+        
+        // Panggil fungsi pindah scene
+        MuatSceneBalapan();
+    }
+
+    // Fungsi internal untuk mengecilkan suara dan pindah scene
+    private void MuatSceneBalapan()
     {
         if (musicSource != null)
         {
@@ -26,9 +49,10 @@ public class MainMenu : MonoBehaviour
     // Fungsi ini untuk tombol Quit
     public void QuitGame()
     {
-        Debug.Log("Game Keluar!"); // Hanya terlihat di editor
-        Application.Quit(); // Berfungsi saat game sudah di-build ke HP/PC
+        Debug.Log("Game Keluar!"); 
+        Application.Quit(); 
     }
+    
     // Fungsi untuk membuka Option
     public void OpenOption()
     {
@@ -41,13 +65,11 @@ public class MainMenu : MonoBehaviour
         Option_panel.SetActive(false); 
     }
 
-    // Fungsi BARU untuk mematikan/menyalakan musik
+    // Fungsi untuk mematikan/menyalakan musik
     public void ToggleMusic()
     {
-        // Mengecek apakah sumber suara sudah dimasukkan
         if (musicSource != null)
         {
-            // Jika sedang nyala, maka matikan (mute). Jika mati, maka nyalakan.
             musicSource.mute = !musicSource.mute; 
         }
     }
