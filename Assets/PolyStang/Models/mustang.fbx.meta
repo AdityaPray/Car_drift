@@ -1,7 +1,14 @@
 fileFormatVersion: 2
 guid: 6dbb1ecb02730dc48a13c14c2d5d2b52
+AssetOrigin:
+  serializedVersion: 1
+  productId: 269404
+  packageName: PolyStang CC
+  packageVersion: 1.1
+  assetPath: Assets/PolyStang/Models/mustang.fbx
+  uploadId: 655332
 ModelImporter:
-  serializedVersion: 22200
+  serializedVersion: 24200
   internalIDToNameTable: []
   externalObjects:
   - first:
@@ -91,8 +98,6 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -111,7 +116,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 2
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
@@ -133,6 +138,9 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
     optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -182,10 +190,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 269404
-  packageName: PolyStang CC
-  packageVersion: 1.1
-  assetPath: Assets/PolyStang/Models/mustang.fbx
-  uploadId: 655332

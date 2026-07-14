@@ -1,0 +1,5 @@
+D:/Semester 6/Game Design And Development/UTS_UAS/.utmp/RelWithDebInfo/2k5d5b13/x86/CMakeFiles/edit_cache.dir
+D:/Semester 6/Game Design And Development/UTS_UAS/.utmp/RelWithDebInfo/2k5d5b13/x86/CMakeFiles/rebuild_cache.dir
+D:/Semester 6/Game Design And Development/UTS_UAS/.utmp/RelWithDebInfo/2k5d5b13/x86/GameActivity/CMakeFiles/game.dir
+D:/Semester 6/Game Design And Development/UTS_UAS/.utmp/RelWithDebInfo/2k5d5b13/x86/GameActivity/CMakeFiles/edit_cache.dir
+D:/Semester 6/Game Design And Development/UTS_UAS/.utmp/RelWithDebInfo/2k5d5b13/x86/GameActivity/CMakeFiles/rebuild_cache.dir

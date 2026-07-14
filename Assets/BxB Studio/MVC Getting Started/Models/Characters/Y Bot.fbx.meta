@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: c94bde3d024d2384694aacf5c2960d0e
 ModelImporter:
-  serializedVersion: 21300
+  serializedVersion: 24200
   internalIDToNameTable: []
   externalObjects: {}
   materials:
@@ -16,8 +16,6 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 1
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -36,10 +34,11 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 2
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -57,6 +56,9 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
     optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -596,8 +598,7 @@ ModelImporter:
     - name: mixamorig:LeftHandIndex2
       parentName: mixamorig:LeftHandIndex1
       position: {x: 1.4760153e-17, y: 0.038919676, z: -4.035612e-18}
-      rotation: {x: -0.000000084750106, y: -0.00000010535169, z: 0.0000063326806,
-        w: 1}
+      rotation: {x: -0.000000084750106, y: -0.00000010535169, z: 0.0000063326806, w: 1}
       scale: {x: 1.0000002, y: 1.0000002, z: 1}
     - name: mixamorig:LeftHandIndex3
       parentName: mixamorig:LeftHandIndex2
@@ -717,8 +718,7 @@ ModelImporter:
     - name: mixamorig:RightHandIndex2
       parentName: mixamorig:RightHandIndex1
       position: {x: -2.6530511e-18, y: 0.038919676, z: -3.7523153e-17}
-      rotation: {x: -0.000000037252732, y: -0.000000012225787, z: -0.0000041729477,
-        w: 1}
+      rotation: {x: -0.000000037252732, y: -0.000000012225787, z: -0.0000041729477, w: 1}
       scale: {x: 0.99999934, y: 0.99999976, z: 0.9999992}
     - name: mixamorig:RightHandIndex3
       parentName: mixamorig:RightHandIndex2
@@ -858,6 +858,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
